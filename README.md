@@ -47,4 +47,4 @@ I am a results-driven Tech Recruiter with a B.Sc. in Computer Science. I combine
 
 ### 📬 Let's Connect!
 * **Email**: ademesomichael2@gmail.com
-* **LinkedIn**: [Your LinkedIn Profile Link Here]
+* **LinkedIn**: https://www.linkedin.com/in/michael-ademeso/
