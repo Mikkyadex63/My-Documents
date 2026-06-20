@@ -34,14 +34,14 @@ I am a results-driven Tech Recruiter with a B.Sc. in Computer Science. I combine
 
 ### ⚡ Live Sourcing Code (Boolean Strings Used Daily)
 
-**AI/ML Talent Craw**:
+* **AI/ML Talent Craw**:
 '("Machine Learning" OR "AI Engineer" OR "Data Scientist") AND ("Python" OR "Python" OR "LLM" OR "MLOps")'
 
-* **Web3/Blockchain Architecture**: 
-  `("Protocol Engineer" OR "Blockchain Engineer") AND ("Go" OR "Rust") AND ("Solidity" OR "EVM")`
+* **Web3/Blockchain Architecture**:
+    '("Protocol Engineer" OR "Blockchain Engineer") AND ("Go OR Rust") AND ("Solidity" OR "EVN")'
 
-* **Cloud Infrastructure Track**: 
-  `("DevOps" OR "SRE") AND "Intern" AND ("Linux" OR "Bash" OR "Python") AND "CI/CD"`
+* **Cloud Infrastructure Track**:
+    '("Devops" OR "SRE") AND "Intern" AND ("Linux" OR "Bash" OR "Python") AND "CI/CD"'
 
 ---
 
