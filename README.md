@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Michael Adeyemi Admeso 
 
-### 🚀 Talent Acquisition Specialist - Remote | Technical & Non-Technical Sourcing
+### 🚀 Talent Acquisition Specialist | Technical & Non-Technical Sourcing - Remote
 I am a results-driven Tech Recruiter with a B.Sc. in Computer Science. I combine my technical background with advanced sourcing methodologies (Boolean, X-Ray searching) to bridge the gap between engineering talent and global organizations.
 
 * 🌍 Based in: Akure, Nigeria (Working Global / UK Hours)
