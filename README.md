@@ -49,4 +49,4 @@ I am a results-driven Tech Recruiter with a B.Sc. in Computer Science. I combine
 * **Email**: ademesomichael2@gmail.com
 * **LinkedIn**: https://www.linkedin.com/in/michael-ademeso/
 * **Instagram**: https://www.linkedin.com/in/michael-ademeso/](https://www.instagram.com/officialmikkyadex36/
-* **x.com**:https://x.com/AdemesoMicha
+* **x.com**: https://x.com/AdemesoMicha
