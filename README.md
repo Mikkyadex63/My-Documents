@@ -1,104 +1,50 @@
-# Michael Adeyemi ADEMESO
-### Contact
-● [Email](ademesomichael2@gmail.com)</br>
-● [Linkedin](https://www.linkedin.com/in/michael-ademeso/)</br>
-● [Phone](+2349123559437)</br>
-● [Location](Ondo)</br>
+# 👋 Hi, I'm Michael Adeyemi Admeso 
 
-## Resume
+### 🚀 Talent Acquisition Specialist - Remote | Technical & Non-Technical Sourcing
+I am a results-driven Tech Recruiter with a B.Sc. in Computer Science. I combine my technical background with advanced sourcing methodologies (Boolean, X-Ray searching) to bridge the gap between engineering talent and global organizations.
 
-## Full-Cycle Recruitment Specialist || Talent Acquisition Specialist || Talent Sourcer || Top Tech Recruiter
+* 🌍 Based in: Akure, Nigeria (Working Global / UK Hours)
+* 🎯 Specialized Sectors: AI/ML, Blockchain/Web3, Enterprise Software, Infrastructure & DevOps
 
-## PROFESSIONAL PROFILE
-Dedicated Outbound Recruiter with 3 years of experience in sourcing and placing top talent within the property management industry.
-Skilled in full-cycle recruitment, candidate engagement, and client relations. Proven ability to identify and attract qualified candidates
-using various sourcing methods.
+---
 
-## EDUCATION
-Ajayi Crowther University, Oyo                                                                             2015 - 2018</br>
-B.Sc. Computer Science
-Class Representative, from start to finish
+### 🛠️ Core Sourcing Toolset & Competencies
+* **Advanced Sourcing**: LinkedIn Recruiter, Complex Boolean Strings, Talent Mapping, Referral Networks.
+* **Tech Scripting Knowledge**: Python, Bash, HTML5/CSS3, Git Version Control.
+* **Candidate Workflows**: Telephone Screening, Technical Evaluation, Candidate Experience Management.
+* **Productivity & Communication**: Slack, Google Workspace, MS Office Suite, Tracking Database Architecture.
 
-## EXPERIENCE
+---
 
-###  Technical Recruiter | Remote
-#### July 2023 – Present Cybadot Technologies (Greater London, England, United Kingdom)
-● Sourced, screened, and hired candidates for various technical roles in the IT sector.</br>
-● Developed and maintained a network of potential candidates through proactive market research and 
-  ongoing relationship management.</br>
-● Conducted thorough interviews to assess candidates' skills, experience, and cultural fit.</br>
-● Coordinated with hiring managers to understand specific job requirements and team dynamics.</br>
+### 📊 Recruitment Portfolio & Active Campaigns
 
-###  Talent Acquisition Specialist | Freelance | Remote
-#### Jul 2022 - Jun 2023 Pariti (Nairobi, Kenya)
-● Successfully sourced, screened, and recruited qualified candidates for various technical and non- 
-  technical positions.</br>
-● Managed the job posting process, ensuring clear and consistent communication with candidates.</br>
-● Conducted screening calls with candidates to assess their fit for open positions.</br>
-● Acted as a primary point of contact between candidates and the internal team, facilitating a smooth 
-  and positive recruitment experience.</br>
-● Leveraged on Gmail & Slack for communication.</br>
+#### 🤖 Deep Tech, AI & Machine Learning Sourcing
+* **Target Roles Sourced**: AI Engineers, Machine Learning Engineers, MLOps, NLP Specialists, Data Scientists.
+* **Strategy Applied**: Built technical talent pools crawling open-source contributors and technical repositories for professionals building and deploying active LLMs and automation frameworks.
 
-###  Technical Recruiter | Freelance | Remote
-#### Apr 2022 – June 2022 Huntly (Palo Alto, CA)
-● Actively sourced and identified tech talent for international product companies.</br>
-● Utilized various channels such as job boards, social media, networking events, and Huntly’s platform to 
-  find suitable candidates.</br>
-● Conducted initial phone screens and interviews to assess candidate qualifications, experience, and 
-  cultural fit.</br>
-● Built and maintained strong relationships with candidates throughout the recruitment process.</br>
-● Served as a liaison between candidates and hiring managers, ensuring a smooth and positive 
-  candidate experience.</br>
+#### ⛓️ Web3 & Blockchain Engineering Sourcing
+* **Target Roles Sourced**: Senior Protocol Engineers (Go/Rust, Solidity/Yul), Front-end Developers (React.js).
+* **Strategy Applied**: Headhunted elite engineering talent capable of building blockchain scalability protocols, auditing smart contracts, and designing distributed systems.
 
-###  Human Resource Intern | Onsite 
-#### Oct 2021 – Mar 2022 TNT Networks Services (Ikorodu, Lagos State, Nigeria)
-● Played a key role in the recruitment and selection process, contributing to the screening of resumes, conducting
-  interviews, and organizing recruitment events.</br>
-● Created new hire folders and orientation paperwork.</br>
-● Analyzed and verified applicant references; collaborated with the HR team to ensure compliance with labor laws.</br>
-● Supported the HR team with administrative tasks and maintaining employee records.</br>
-● Assisted in the onboarding process, ensuring new hires had a smooth transition into their roles.</br>
-  
-##  TECHNICAL SKILLS : 
-● Applicant Tracking Systems (Proficient in Greenhouse)</br>
-● Social Media Recruiting</br> 
-● Interviewing Techniques, etc.</br>
+#### ⚙️ Infrastructure & Localized Campaigns
+* **Target Roles Sourced**: DevOps Interns (Linux, CI/CD, AWS/Azure/GCP), Backend Developers (*Krakow Only* Hybrid Java/JS).
+* **Strategy Applied**: Executed strict location-bounding search parameters and digital outreach messaging to lower drop-off rates for hybrid setups.
 
-##  SOFT SKILLS : 
-● Communication</br>   
-● Problem-Solving</br>
-● Organization</br>
-● Adaptability, etc.</br>
+---
 
-### SKILLS:
-● Adaptability</br>
-● Communication</br>
-● HR Administration</br>
-● Interviewing</br>
-● Job Board Posting</br>
-● Market Research</br>
-● Networking</br>
-● Onboarding</br>
-● Organization</br>
-● Problem-Solving</br>
-● Relationship Building</br>
-● Screening</br>
-● Social Media Recruiting</br>
-● Sourcing</br>
-● Talent Acquisition</br>
+### ⚡ Live Sourcing Code (Boolean Strings Used Daily)
 
-## CERTIFICATION
-#### Great Learning Human Resource Management Certification
-![Great Learning Human Resource Management Certification](/Certifications/Human_Resource_Management.png)
-#### Great Learning Perfomance Management Certification
-![Great Learning Perfomance Management Certification](/Certifications/Performance_Management.png)
-#### DevSkiller Tech Recruitment Certified Professional
-![DevSkiller Tech Recruitment Certified Professional](/Certifications/Tech_Recruitment_Badge.png)
-#### Automating Employee Onboarding Badge
-![Automating_Employee_Onboarding_Badge](/Certifications/Airslate.jpeg)
-#### Certificate of Completion For Hirist Employer Branding Certification Course
-![certificate of completion for hirist employer branding certification course](/Certifications/Hirist_employer_branding.jpeg)
-#### Hirist Tech Recruitment Certification
-![hirist tech recruitment certification](/Certifications/Hirist_tech_recruiter.jpeg)
-#### Great Learning Blockchain Basics Certification
-![Blockchain Basics JPEG](https://github.com/user-attachments/assets/02c9683a-af32-405d-adaf-380ee79ac4c9)
+* **AI/ML Talent Crawl**: 
+  `("Machine Learning" OR "AI Engineer" OR "Data Scientist") AND ("Python" OR "LLM" OR "MLOps")`
+
+* **Web3/Blockchain Architecture**: 
+  `("Protocol Engineer" OR "Blockchain Engineer") AND ("Go" OR "Rust") AND ("Solidity" OR "EVM")`
+
+* **Cloud Infrastructure Track**: 
+  `("DevOps" OR "SRE") AND "Intern" AND ("Linux" OR "Bash" OR "Python") AND "CI/CD"`
+
+---
+
+### 📬 Let's Connect!
+* **Email**: ademesomichael2@gmail.com
+* **LinkedIn**: [Your LinkedIn Profile Link Here]
